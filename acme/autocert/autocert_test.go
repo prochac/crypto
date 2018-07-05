@@ -30,7 +30,7 @@ import (
 	"testing"
 	"time"
 
-	"golang.org/x/crypto/acme"
+	"github.com/prochac/crypto/acme"
 )
 
 var (
